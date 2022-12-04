@@ -1,0 +1,46 @@
+#title1{
+    color: red;
+}
+body {
+
+    width: 100%;
+}
+.my-navbar {
+    background: #003366CE;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+.sumrz li {
+    display: flex;
+    flex: 1 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    float: left;
+}
+.sumrz li strong{
+    font-size: 40px;
+}
+.clockstyle{
+    margin-top: 50px;
+    margin-left: 35%;
+    margin-right: 20%;
+}
+#dateinner{
+    font-size: 40px;
+    margin: auto;
+}
+#clockinner
+{
+    font-size: 40px;
+    margin: auto;
+}
+.my-navbar a{
+    color: #999999;
+}
+
+.mypanel{
+    background: #999999E4;
+}
