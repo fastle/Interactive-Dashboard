@@ -1,0 +1,55 @@
+.pane {
+    background: rgb(42,42,42);
+    border-style: solid;
+    border-color: rgb(27,28,31);
+    border-width: 1px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    color: #eee;
+}
+
+.header {
+    background-color: #000;
+    margin: 5px;
+    padding-left: 10px;
+    padding-top: 4px;
+    border-radius: 5px;
+    height: 30px;
+    color: #eee;
+}
+
+#view2 {
+    height: 280px;
+    color: #eee;
+}
+
+#view3 {
+    height: 400px;
+    color: #eee;
+}
+
+#view3 > h3 {
+    margin-left: 5px;
+    color: #eee;
+}
+
+#view4 {
+    height: 600px;
+}
+
+#view5 {
+    height: 280px;
+}
+
+#view6 {
+    height: 600px;
+    color: #eee;
+}
+
+.bar { 
+    fill: steelblue; 
+}
+
+body{ background:#000} 
